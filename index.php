@@ -121,8 +121,10 @@
                 <span class="carousel-content">Fancy Carousel is going to be here</span>
             </div>
 
+            <!-- BEGGINING OF PRODUCT TABS -->
             <div class="product-tabs">
             </div>
+            <!-- ENDING OF PRODUCT TABS -->
 
         </main>
         <!-- ENDING OF MAIN CONTENT -->
